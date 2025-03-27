@@ -21,7 +21,7 @@ Instead of saying, "Please initiate the file transfer protocol," which might con
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 some people are visual learners and the diagrams help them visualize the process being talked about as they can follow everything making it easier to understand complex scenarios.
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
-
+barcharts,pictures,dashboards
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 Headings and subheadings helps to semantically arrange content by creating a hierarchical structure, making it easier for readers to recoder information .By breaking down complex information into manageable chunks, they improve comprehension.
 ## 10. What are some best practices for creating effective headings and subheadings?
